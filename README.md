@@ -1,2 +1,2 @@
 # layout
-[site]{https://lummelis.github.io/layout/}
+[site](https://lummelis.github.io/layout/)
